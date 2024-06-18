@@ -12,3 +12,7 @@ code {
     monospace;
 }
 
+.carousel-image {
+  height: 400px; /* Выберите желаемую высоту */
+  object-fit: cover; /* Позволяет изображениям сохранять пропорции */
+}
