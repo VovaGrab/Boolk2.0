@@ -72,7 +72,17 @@ export default class CarouselBox extends Component {
             </Carousel.Caption>
         </Carousel.Item>
 
-        
+        <Carousel.Item>
+            <img
+                className='d-block w-100'
+                src={con6Img}
+                alt='Contests'
+            />
+            <Carousel.Caption>
+                <h3>WELCOME TO BOOLK !</h3>
+                <p>"Boolk: Inspiring Excellence Through Friendly Competition!"</p>
+            </Carousel.Caption>
+        </Carousel.Item>
       </Carousel>
     )
   }
