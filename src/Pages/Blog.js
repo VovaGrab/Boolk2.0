@@ -1,11 +1,14 @@
 import React, { Component } from 'react';
+import PageTitle from '../Components/PageTitle';
 
-export class Blog extends Component {
+
+export default class Blog extends Component {
   render() {
     return (
-      <div>Blog</div>
-    )
+      <div>
+        <PageTitle title="Blog" />
+        Blog Page Content
+      </div>
+    );
   }
 }
-
-export default Blog

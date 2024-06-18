@@ -1,11 +1,14 @@
 import React, { Component } from 'react';
+import PageTitle from '../Components/PageTitle';
 
-export class Home extends Component {
+
+export default class Home extends Component {
   render() {
     return (
-      <div>Hello</div>
-    )
+      <div>
+        <PageTitle title="Home" />
+        Home Page Content
+      </div>
+    );
   }
 }
-
-export default Home

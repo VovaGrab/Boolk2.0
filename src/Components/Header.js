@@ -1,12 +1,12 @@
-// src/components/Header.js
 import React, { Component } from 'react';
 import { Navbar, Nav, FormControl, Container, Form, Button } from 'react-bootstrap';
 import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
-import logo from './Boolk.png';
+import logo from './Boolk.png'; // Проверьте правильность пути к вашему логотипу
 import Home from '../Pages/Home';
 import About from '../Pages/About';
 import Registration from '../Pages/Registration';
 import Blog from '../Pages/Blog';
+
 
 export default class Header extends Component {
   render() {
