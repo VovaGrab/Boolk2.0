@@ -22,7 +22,9 @@ export default class About extends Component {
                   <Nav.Link eventKey="third">Science</Nav.Link>
                 </Nav.Item>
 
-               
+                <Nav.Item>
+                  <Nav.Link eventKey="fourth">Art</Nav.Link>
+                </Nav.Item>
               </Nav>
             </Col>
       </Container>
