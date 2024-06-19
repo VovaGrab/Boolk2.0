@@ -14,6 +14,10 @@ export default class About extends Component {
                   <Nav.Link eventKey="first">IT</Nav.Link>
                 </Nav.Item>
 
+                <Nav.Item>
+                  <Nav.Link eventKey="second">Business</Nav.Link>
+                </Nav.Item>
+
                 
               </Nav>
             </Col>
