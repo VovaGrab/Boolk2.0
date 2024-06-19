@@ -62,7 +62,16 @@ export default class About extends Component {
                   </p>
                 </Tab.Pane>
 
-               
+                <Tab.Pane eventKey="fourth">
+                  <img
+                    src="https://us.123rf.com/450wm/normaals/normaals2002/normaals200200033/139806663-drawing-or-painting-concept-flat-tiny-person-vector-illustration-stylized-artists-workshop-activity.jpg?ver=6"
+                    style={{ width: '100%', height: 'auto', maxWidth: '500px' }}
+                    alt="Art Competition"
+                  />
+                  <p>
+                    Unleash your creativity in our captivating art competition! Showcase your talent in painting, sculpture, digital art, and more. Connect with fellow artists, gain exposure, and compete for prestigious awards. This is your opportunity to inspire, be inspired, and make your mark in the art world. Join us and let your imagination soar!
+                  </p>
+                </Tab.Pane>
 
               </Tab.Content>
             </Col>
