@@ -1,14 +1,23 @@
 import React, { Component } from 'react';
 import PageTitle from '../Components/PageTitle';
-
+import { Container, Tab, Nav, Row, Col } from 'react-bootstrap';
 
 export default class About extends Component {
   render() {
     return (
-      <div>
-        <PageTitle title="About" />
-        About Page Content
-      </div>
+      <Container style={{ marginTop: '70px' }}>
+        <Tab.Container id="left-tabs-example" defaultActiveKey="first">
+          <Row>
+            <Col sm={3}>
+              <Nav variant="pills" className="flex-column mt-2">
+                <Nav.Item>
+                  <Nav.Link eventKey="first">IT</Nav.Link>
+                </Nav.Item>
+
+                
+              </Nav>
+            </Col>
+      </Container>
     );
   }
 }
