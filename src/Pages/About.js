@@ -40,7 +40,29 @@ export default class About extends Component {
                   </p>
                 </Tab.Pane>
 
-                
+                <Tab.Pane eventKey="second">
+                  <img
+                    src="https://cloudcfo.ph/wp-content/uploads/2022/11/CloudCfo-Blog-Banner-Blog17-Business-Structures.png"
+                    style={{ width: '100%', height: 'auto', maxWidth: '500px' }}
+                    alt="Business Competition"
+                  />
+                  <p>
+                    Step into the world of business innovation! Compete in our business contest to pitch groundbreaking ideas, develop strategic plans, and solve real-world challenges. Network with industry leaders, gain invaluable experience, and win impressive awards. Elevate your career and make your mark in the business world. Join us and unleash your potential!
+                  </p>
+                </Tab.Pane>
+
+                <Tab.Pane eventKey="third">
+                  <img
+                    src="https://img.freepik.com/free-vector/hand-drawn-colorful-science-education-background_23-2148475858.jpg"
+                    style={{ width: '100%', height: 'auto', maxWidth: '500px' }}
+                    alt="Science Competition"
+                  />
+                  <p>
+                    Explore the frontier of scientific discovery in our prestigious competition! Present your research, engage with top scientists, and contribute to groundbreaking advancements. Gain recognition, valuable feedback, and opportunities for collaboration. This is your chance to shine in the scientific community and make a lasting impact. Join us and push the boundaries of knowledge!
+                  </p>
+                </Tab.Pane>
+
+               
 
               </Tab.Content>
             </Col>
