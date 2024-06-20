@@ -34,10 +34,27 @@ export default class Home extends Component {
             <Card.Body>
               <Card.Title>"Innovative Business Solutions Competition 2024"</Card.Title>
               <Card.Text>
-              Welcome to the Innovative Business Solutions Competition 2024! This premier event is designed to uncover and celebrate groundbreaking business ideas, strategies, and solutions. Whether you're a budding entrepreneur, a seasoned business professional, or a student with a passion for business innovation, this competition is your platform to shine.              </Card.Text>
+              Welcome to the Innovative Business Solutions Competition 2024! This premier event is designed to uncover and celebrate groundbreaking business ideas, strategies, and solutions. Whether you're a budding entrepreneur, a seasoned business professional, or a student with a passion for business innovation, this competition is your platform to shine.              
+              </Card.Text>
               <Button variant="primary">About contest</Button>
             </Card.Body>
           </Card>
+
+          <Card>
+            <Card.Img
+              variant="top"
+              src="https://teambuildinghub.com/wp-content/uploads/2022/03/quick-team-building-featured-image.webp"
+            />
+
+            <Card.Body>
+              <Card.Title>"Creative Horizons Art Competition 2024"</Card.Title>
+              <Card.Text>
+              Welcome to Creative Horizons Art Competition 2024! This prestigious contest is designed to discover and celebrate artistic talents from around the world. Whether you're a professional artist, a passionate amateur, or an art student, this competition provides a platform to showcase your creativity, innovation, and unique artistic vision.              
+              </Card.Text>
+              <Button variant="primary">About contest</Button>
+            </Card.Body>
+          </Card>
+          
         </CardDeck>
       </Container>
       </>
