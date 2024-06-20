@@ -5,7 +5,7 @@ import { Container, Tab, Nav, Row, Col } from 'react-bootstrap';
 export default class About extends Component {
   render() {
     return (
-      <Container style={{ marginTop: '70px' }}>
+      <Container style={{ marginTop: '70px', height: '580px' }}>
         <Tab.Container id="left-tabs-example" defaultActiveKey="first">
           <Row>
             <Col sm={3}>

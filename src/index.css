@@ -46,3 +46,13 @@ body {
 .card-title, .card-text, .card-body {
   text-align: center;
 }
+
+.carousel {
+  margin-left: -125px; /* Убираем внешний отступ слева */
+  margin-right: -125px; /* Убираем внешний отступ справа */
+}
+
+.carousel-item {
+  padding: 0 15px 20px; /* Добавляем внутренний отступ в 20px между карточками */
+}
+

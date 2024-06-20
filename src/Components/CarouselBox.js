@@ -10,7 +10,7 @@ import con6Img from '../assets/con6.png';
 export default class CarouselBox extends Component {
   render() {
     return (
-      <Carousel>
+      <Carousel className="carousel">
         <Carousel.Item className="carousel-item">
           <img
             className='d-block w-100'
@@ -67,7 +67,7 @@ export default class CarouselBox extends Component {
           />
           <Carousel.Caption>
             <h3>WELCOME TO BOOLK !</h3>
-            <p>Boolk: Inspire Innovation, Excel in Competition!</p>
+            <p>"Boolk: Inspire Innovation, Excel in Competition!"</p>
           </Carousel.Caption>
         </Carousel.Item>
 
@@ -86,4 +86,3 @@ export default class CarouselBox extends Component {
     );
   }
 }
-
