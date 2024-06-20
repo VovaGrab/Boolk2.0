@@ -20,6 +20,11 @@ export default class Contacts extends Component {
             <Form.Control as="textarea" rows="1" placeholder="For example: IT competition/ art competition..."/>
           </Form.Group>
 
+          <Form.Group controlId="formBasicPassword" style={{width: '500px', marginTop: '30px'}}>
+            <Form.Label>Describe your contest idea so we can be sure you're following our policies</Form.Label>
+            <Form.Control as="textarea" rows="5"/>
+          </Form.Group>
+
           
         </Form>
       </Container>
