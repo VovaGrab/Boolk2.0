@@ -25,6 +25,19 @@ export default class Home extends Component {
               <Button variant="primary">About contest</Button>
             </Card.Body>
           </Card>
+
+          <Card>
+            <Card.Img
+              variant="top"
+              src="https://www.actitime.com/wp-content/uploads/2018/12/Reports.png"
+            />
+            <Card.Body>
+              <Card.Title>"Innovative Business Solutions Competition 2024"</Card.Title>
+              <Card.Text>
+              Welcome to the Innovative Business Solutions Competition 2024! This premier event is designed to uncover and celebrate groundbreaking business ideas, strategies, and solutions. Whether you're a budding entrepreneur, a seasoned business professional, or a student with a passion for business innovation, this competition is your platform to shine.              </Card.Text>
+              <Button variant="primary">About contest</Button>
+            </Card.Body>
+          </Card>
         </CardDeck>
       </Container>
       </>
