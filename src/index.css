@@ -1,20 +1,15 @@
 body {
+  padding: 0;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+  background: #fff;
+  color: rgb(0, 0, 0);
+  font-family: "Madimi One", sans-serif;
+  font-weight: 300;
 }
 
 .carousel-image {
-  height: 400px; /* Выберите желаемую высоту */
-  object-fit: cover; /* Позволяет изображениям сохранять пропорции */
+  height: 400px; 
+  object-fit: cover; 
 }
 
 .carousel-item {
@@ -29,4 +24,25 @@ code {
 .carousel-caption h3,
 .carousel-caption p {
   text-shadow: 2px 2px 4px #000;
+}
+
+.card-row {
+  display: flex;
+  justify-content: space-between;
+}
+
+.card-row > .col {
+  margin-bottom: 20px;
+}
+
+.card {
+  height: 100%;
+}
+
+.card img {
+  object-fit: cover;
+  height: 200px; 
+}
+.card-title, .card-text, .card-body {
+  text-align: center;
 }
