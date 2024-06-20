@@ -16,3 +16,17 @@ code {
   height: 400px; /* Выберите желаемую высоту */
   object-fit: cover; /* Позволяет изображениям сохранять пропорции */
 }
+
+.carousel-item {
+  height: 100vh;
+}
+
+.carousel-item img {
+  object-fit: cover;
+  height: 100%;
+}
+
+.carousel-caption h3,
+.carousel-caption p {
+  text-shadow: 2px 2px 4px #000;
+}
