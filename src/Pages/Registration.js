@@ -25,7 +25,10 @@ export default class Contacts extends Component {
             <Form.Control as="textarea" rows="5"/>
           </Form.Group>
 
-          
+          <Form.Group controlId="formBasicCheckbox">
+           <Form.Check type="checkbox" label="I agree to submit my application for review"/>
+          </Form.Group>
+          <Button variant="primary" type="submit">Submit</Button>
         </Form>
       </Container>
     );
