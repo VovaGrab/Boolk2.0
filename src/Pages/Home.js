@@ -72,7 +72,56 @@ export default class Home extends Component {
               <Modal.Title>InnovateIT Competition 2024</Modal.Title>
             </Modal.Header>
             <Modal.Body>
-              <p>Additional information about InnovateIT Competition...</p>
+            <p>Eligibility:</p>
+            <p>Description:</p>
+
+Welcome to InnovateIT Competition 2024! This exciting contest is designed to inspire and challenge tech enthusiasts, developers, and innovators from around the globe. Whether you're a seasoned professional or an emerging talent, this competition is your opportunity to showcase your skills, creativity, and innovation in the field of Information Technology.
+
+<p>Objective:</p>
+
+<p>The InnovateIT Competition aims to bring together bright minds to solve real-world problems through technology. Participants will work individually or in teams to develop innovative solutions in various categories, including but not limited to:</p>
+
+<p>Software Development: Create cutting-edge applications, tools, or platforms that address specific challenges or enhance existing processes.
+Data Science & AI: Utilize data analysis, machine learning, and artificial intelligence to provide insights, automate tasks, or create intelligent systems.
+Cybersecurity: Develop solutions that enhance security, protect data, and ensure privacy in the digital world.
+IoT & Smart Devices: Innovate with Internet of Things (IoT) technology to create smart, connected devices that improve everyday life.
+Blockchain & Fintech: Explore blockchain technology and financial innovations to build secure, efficient, and transparent systems.</p>
+
+<p>Eligibility:</p>
+
+<p>The competition is open to students, professionals, and tech enthusiasts worldwide. Participants can enter individually or form teams of up to four members.</p>
+
+<p>Submission Guidelines:</p>
+
+<p>Register on our platform and create your project profile.
+Submit a detailed project proposal outlining your idea, its significance, and the technology stack you plan to use.
+Develop your solution and submit the final project, including source code, documentation, and a presentation/demo video.</p>
+<p>Judging Criteria:</p>
+
+<p>Projects will be evaluated based on the following criteria:</p>
+
+<p>Innovation: How original and groundbreaking is the solution?
+Impact: What is the potential of the solution to solve real-world problems or create value?
+Technical Execution: How well is the solution implemented and does it follow best practices?
+Usability: Is the solution user-friendly and accessible?
+Presentation: How effectively is the project communicated through documentation and the demo video?</p>
+
+<p>Prizes:</p>
+
+<p>Winners will receive:</p>
+
+<p>Cash prizes and tech gadgets.
+Mentorship opportunities with industry experts.
+Exposure to potential investors and tech companies.
+Certificates and recognition on our platform.</p>
+<p>Timeline:</p>
+
+<p>Registration Opens: July 1, 2024
+Proposal Submission Deadline: August 15, 2024
+Final Project Submission Deadline: October 1, 2024
+Judging Period: October 2 - October 15, 2024
+Winners Announcement: October 20, 2024
+Join us in InnovateIT Competition 2024 and be part of a global movement to push the boundaries of technology and innovation. We look forward to seeing your amazing creations!</p>
               {/* Add more details here */}
             </Modal.Body>
             <Modal.Footer>
