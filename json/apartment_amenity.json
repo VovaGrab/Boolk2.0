@@ -1,0 +1,292 @@
+[
+  {
+    "building": "Str. Ștefan cel Mare, nr. 5",
+    "apartment": 3,
+    "amenity": "Ванна"
+  },
+  {
+    "building": "Str. Ștefan cel Mare, nr. 5",
+    "apartment": 3,
+    "amenity": "Кондиционер"
+  },
+  {
+    "building": "Str. Ștefan cel Mare, nr. 5",
+    "apartment": 3,
+    "amenity": "Балкон"
+  },
+  {
+    "building": "Str. Ștefan cel Mare, nr. 5",
+    "apartment": 3,
+    "amenity": "Парковка"
+  },
+  {
+    "building": "Bulevardul Dacia, nr. 12",
+    "apartment": 2,
+    "amenity": "Ванна"
+  },
+  {
+    "building": "Bulevardul Dacia, nr. 12",
+    "apartment": 2,
+    "amenity": "Лифт"
+  },
+  {
+    "building": "Bulevardul Dacia, nr. 12",
+    "apartment": 2,
+    "amenity": "Кондиционер"
+  },
+  {
+    "building": "Bulevardul Dacia, nr. 12",
+    "apartment": 2,
+    "amenity": "Парковка"
+  },
+  {
+    "building": "Str. Alba Iulia, nr. 8",
+    "apartment": 4,
+    "amenity": "Ванна"
+  },
+  {
+    "building": "Str. Alba Iulia, nr. 8",
+    "apartment": 4,
+    "amenity": "Кондиционер"
+  },
+  {
+    "building": "Str. Alba Iulia, nr. 8",
+    "apartment": 4,
+    "amenity": "Балкон"
+  },
+  {
+    "building": "Str. Alba Iulia, nr. 8",
+    "apartment": 4,
+    "amenity": "Лифт"
+  },
+  {
+    "building": "Str. Alba Iulia, nr. 8",
+    "apartment": 4,
+    "amenity": "Парковка"
+  },
+  {
+    "building": "Bulevardul Mircea cel Bătrân, nr. 21",
+    "apartment": 4,
+    "amenity": "Ванна"
+  },
+  {
+    "building": "Bulevardul Mircea cel Bătrân, nr. 21",
+    "apartment": 4,
+    "amenity": "Кондиционер"
+  },
+  {
+    "building": "Bulevardul Mircea cel Bătrân, nr. 21",
+    "apartment": 4,
+    "amenity": "Балкон"
+  },
+  {
+    "building": "Bulevardul Mircea cel Bătrân, nr. 21",
+    "apartment": 4,
+    "amenity": "Лифт"
+  },
+  {
+    "building": "Bulevardul Mircea cel Bătrân, nr. 21",
+    "apartment": 4,
+    "amenity": "Парковка"
+  },
+  {
+    "building": "Bulevardul Mircea cel Bătrân, nr. 21",
+    "apartment": 4,
+    "amenity": "Ванна"
+  },
+  {
+    "building": "Bulevardul Mircea cel Bătrân, nr. 21",
+    "apartment": 3,
+    "amenity": "Кондиционер"
+  },
+  {
+    "building": "Bulevardul Mircea cel Bătrân, nr. 21",
+    "apartment": 3,
+    "amenity": "Балкон"
+  },
+  {
+    "building": "Bulevardul Mircea cel Bătrân, nr. 21",
+    "apartment": 3,
+    "amenity": "Лифт"
+  },
+  {
+    "building": "Bulevardul Mircea cel Bătrân, nr. 21",
+    "apartment": 3,
+    "amenity": "Парковка"
+  },
+  {
+    "building":"Str. Ștefan cel Mare, nr. 5",
+    "apartment": 1,
+    "amenity": "Ванна"
+  },
+  {
+    "building":"Str. Ștefan cel Mare, nr. 5",
+    "apartment": 1,
+    "amenity": "Кондиционер"
+  },
+  {
+    "building":"Str. Ștefan cel Mare, nr. 5",
+    "apartment": 1,
+    "amenity": "Балкон"
+  },
+  {
+    "building":"Str. Ștefan cel Mare, nr. 5",
+    "apartment": 1,
+    "amenity": "Лифт"
+  },
+  {
+    "building":"Str. Ștefan cel Mare, nr. 5",
+    "apartment": 1,
+    "amenity": "Парковка"
+  },
+  {
+    "building":"Bulevardul Dacia, nr. 12",
+    "apartment": 7,
+    "amenity": "Ванна"
+  },
+  {
+    "building":"Bulevardul Dacia, nr. 12",
+    "apartment": 7,
+    "amenity": "Кондиционер"
+  },
+  {
+    "building":"Bulevardul Dacia, nr. 12",
+    "apartment": 7,
+    "amenity": "Балкон"
+  },
+  {
+    "building":"Bulevardul Dacia, nr. 12",
+    "apartment": 7,
+    "amenity": "Лифт"
+  },
+  {
+    "building":"Bulevardul Dacia, nr. 12",
+    "apartment": 7,
+    "amenity": "Парковка"
+  },
+  {
+    "building":"Bulevardul Dacia, nr. 12",
+    "apartment": 8,
+    "amenity": "Ванна"
+  },
+  {
+    "building":"Bulevardul Dacia, nr. 12",
+    "apartment": 8,
+    "amenity": "Кондиционер"
+  },
+  {
+    "building":"Bulevardul Dacia, nr. 12",
+    "apartment": 8,
+    "amenity": "Балкон"
+  },
+  {
+    "building":"Bulevardul Dacia, nr. 12",
+    "apartment": 8,
+    "amenity": "Лифт"
+  },
+  {
+    "building":"Bulevardul Dacia, nr. 12",
+    "apartment": 8,
+    "amenity": "Парковка"
+  },
+  {
+    "building":"Bulevardul Mircea cel Bătrân, nr. 21",
+    "apartment": 6,
+    "amenity": "Ванна"
+  },
+  {
+    "building":"Bulevardul Mircea cel Bătrân, nr. 21",
+    "apartment": 6,
+    "amenity": "Кондиционер"
+  },
+  {
+    "building":"Bulevardul Mircea cel Bătrân, nr. 21",
+    "apartment": 6,
+    "amenity": "Балкон"
+  },
+  {
+    "building":"Bulevardul Mircea cel Bătrân, nr. 21",
+    "apartment": 6,
+    "amenity": "Лифт"
+  },
+  {
+    "building":"Bulevardul Mircea cel Bătrân, nr. 21",
+    "apartment": 6,
+    "amenity": "Парковка"
+  },
+  {
+    "building":"Bulevardul Mircea cel Bătrân, nr. 21",
+    "apartment": 6,
+    "amenity": "Ванна"
+  },
+  {
+    "building":"Str. Alba Iulia, nr. 8",
+    "apartment": 22,
+    "amenity": "Кондиционер"
+  },
+  {
+    "building":"Str. Alba Iulia, nr. 8",
+    "apartment": 22,
+    "amenity": "Балкон"
+  },
+  {
+    "building":"Str. Alba Iulia, nr. 8",
+    "apartment": 22,
+    "amenity": "Лифт"
+  },
+  {
+    "building":"Str. Alba Iulia, nr. 8",
+    "apartment": 22,
+    "amenity": "Парковка"
+  },
+  {
+    "building":"Str. Alba Iulia, nr. 8",
+    "apartment": 22,
+    "amenity": "Ванна"
+  },
+  {
+    "building":"Str. Ștefan cel Mare, nr. 5",
+    "apartment": 32,
+    "amenity": "Кондиционер"
+  },
+  {
+    "building":"Str. Ștefan cel Mare, nr. 5",
+    "apartment": 32,
+    "amenity": "Балкон"
+  },
+  {
+    "building":"Str. Ștefan cel Mare, nr. 5",
+    "apartment": 32,
+    "amenity": "Лифт"
+  },
+  {
+    "building":"Str. Ștefan cel Mare, nr. 5",
+    "apartment": 32,
+    "amenity": "Парковка"
+  },
+  {
+    "building":"Str. Ștefan cel Mare, nr. 5",
+    "apartment": 32,
+    "amenity": "Ванна"
+  },
+  {
+    "building":"Bulevardul Dacia, nr. 12",
+    "apartment": 31,
+    "amenity": "Кондиционер"
+  },
+  {
+    "building":"Bulevardul Dacia, nr. 12",
+    "apartment": 31,
+    "amenity": "Балкон"
+  },
+  {
+    "building":"Bulevardul Dacia, nr. 12",
+    "apartment": 31,
+    "amenity": "Лифт"
+  },
+  {
+    "building":"Bulevardul Dacia, nr. 12",
+    "apartment": 31,
+    "amenity": "Парковка"
+  }
+]
